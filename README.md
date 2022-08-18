@@ -1,7 +1,5 @@
 # Async_FIFO
 
-This is the course project done under EE705-VLSI Design Lab at IIT-B.
-
 Info about the different modules used.
 
 FIFO_1.v :- This is the top-level wrapper-module that includes all clock domains. The top module is only used as a wrapper to instantiate all of the other FIFO modules used in the design.
